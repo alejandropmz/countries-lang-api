@@ -1,0 +1,25 @@
+.country__card__container {
+  margin: auto;
+  width: 300px;
+  text-align: center;
+}
+
+.country__card__container img {
+  width: 100%;
+}
+
+.country__card__container .country__main {
+  background-color: rgba(255, 255, 255, 0.422);
+  height: 100%;
+  padding: 10px 5px;
+}
+
+.country__card__container .country__main .country__ul {
+  list-style: none;
+  padding: 0;
+}
+
+.country__card__container .country__main .country__ul li {
+  margin: 5px 0;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,17 @@
+@import url("../src/styles/country-card.css");
+@import url("../src/styles/select.css");
+
+.app {
+  font-family: "Rubik", sans-serif;
+
+  /* grid */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+}
+
+.app .app__options,
+.app .app__title {
+  grid-column: 1 / -1;
+  text-align: center;
+  margin: auto;
+}

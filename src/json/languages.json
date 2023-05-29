@@ -1,0 +1,82 @@
+[
+  {
+    "language": "english",
+    "iso": "eng"
+  },
+  {
+    "language": "mandarin",
+    "iso": "zho"
+  },
+  {
+    "language": "indonesio",
+    "iso": "ind"
+  },
+  {
+    "language": "arabe",
+    "iso": "ara"
+  },
+  {
+    "language": "bengali",
+    "iso": "ben"
+  },
+  {
+    "language": "frances",
+    "iso": "fra"
+  },
+  {
+    "language": "ruso",
+    "iso": "rus"
+  },
+  {
+    "language": "portuges",
+    "iso": "por"
+  },
+  {
+    "language": "urdu",
+    "iso": "urd"
+  },
+  {
+    "language": "africano",
+    "iso": "afr"
+  },
+  {
+    "language": "albania",
+    "iso": "sqi"
+  },
+  {
+    "language": "búlgaro",
+    "iso": "bul"
+  },
+  {
+    "language": "catalán",
+    "iso": "cat"
+  },
+  {
+    "language": "croata",
+    "iso": "hrv"
+  },
+  {
+    "language": "danés",
+    "iso": "dan"
+  },
+  {
+    "language": "finlandés",
+    "iso": "fin"
+  },
+  {
+    "language": "alemán",
+    "iso": "deu"
+  },
+  {
+    "language": "islandés",
+    "iso": "isl"
+  },
+  {
+    "language": "japonés",
+    "iso": "jpn"
+  },
+  {
+    "language": "ruso",
+    "iso": "rus"
+  }
+]
